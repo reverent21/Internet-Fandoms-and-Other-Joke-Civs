@@ -9,9 +9,9 @@
 			"Removes other religions when spreading religion",
 			"May enter foreign tiles without open borders",
 			"Ignores terrain cost",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
-		"movement": 4,
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"Invisible to non-adjacent units",]
+		"movement": 5,
 		"religiousStrength": 1000
 	},
 	{
