@@ -2,7 +2,7 @@
 	{
 		"name": "PathOwOgen carrier",
 		"unitType": "Civilian",
-		"uniqueTo": "Furry Fandom",
+		"uniqueTo": "Furry Furocracy",
 		"replaces": "Missionary",
 		"uniques": [
 			"Can Spread Religion <for [4] movement> <[1] times> <after which this unit is consumed>",
