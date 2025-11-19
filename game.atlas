@@ -4,7 +4,7 @@ size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Furry Fandom
+NationIcons/Furry Furocracy
   rotate: false
   xy: 4, 4
   size: 100, 100
