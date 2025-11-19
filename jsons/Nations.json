@@ -8,8 +8,8 @@
 		"preferredVictoryType": "Scientific",
 		"style": "Furry"
 		
-		"startIntroPart1": "Why?",
-		"startIntroPart2": "You could have chosen a normal nation. Why must you choose the path of perpetual torment?",
+		"startIntroPart1": "OwO",
+		"startIntroPart2": "*notices city* what's this?",
 		
 		"declaringWar": "Pwepawe fow assimiwation ÒwÓ",
 		"attacked": "As a wise man once said, if a fuwwy can affowd a 1000% dowwaw fuwsuit, they can affowd a 10$ pipe bomb in youw maiwbox.",
@@ -31,9 +31,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [0,255,255],
-		"uniqueName": "Masters of Cringe",
+		"uniqueName": "Cringe",
 		"uniques": ["Gain a free [Unique Shrine] [in all cities], [+1 Science] per every [2] [Faith]"],
-		"uniqueText": "Furries are the masters of cringe. Every city starts with a shrine, making this garbage civ overpowered for religion. If that isn't already enough, they get a stupidly powerful wonder in the Industrial era that almost ensures religion spreads like wildfire. Horrifically unbalanced, but what did you expect from a joke mod?"
+		"uniqueText": "Every city starts with a shrine, making this garbage civ overpowered for religion. If that isn't already enough, they get a stupidly powerful wonder in the Industrial era that almost ensures religion spreads like wildfire. Horrifically unbalanced, but what did you expect from a joke mod?"
 		"cities": ["Furryville","Bulgeburg","Cringetown","Boykisser Village","Foxville","Wooferburg","Mcflufferton","Meowtown","Wolfburg","Chonkerton","Cat Zone","Useless City","Why?","Chungus"]
 	},
 	{
